@@ -1,5 +1,5 @@
 /**
- *     Copyright (C) 2023-2024 Olivier Vignaud.
+ *     Copyright (C) 2023-2025 Olivier Vignaud.
  *
  *     This program is free software: you can redistribute it and/or modify
  *     it under the terms of the GNU General Public License as published by
